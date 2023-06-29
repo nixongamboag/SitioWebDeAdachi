@@ -12,7 +12,7 @@ export default function Home() {
 
   const sumar= ()=> {
     setmiVariable (miVariable+1)
-    window.location.href = 'https://www.youtube.com';
+    //window.location.href = 'https://www.youtube.com';
   }
 
   return (
